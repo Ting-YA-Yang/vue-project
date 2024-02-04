@@ -1,0 +1,4 @@
+pnpm spellcheck
+pnpm type-check
+pnpm lint
+# pnpm lint:style
